@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name		Scratch Feed
-// @include		http://scratch.mit.edu/
-// @version		0.1
+// @include		https://scratch.mit.edu/
+// @version		0.2
 // @grant		none
+// @updateURL   https://github.com/matthewr6/scratch-userscripts/raw/master/feed.user.js
 // ==/UserScript==
 
 //great thanks to PullJosh's MessageFilter.user.js for guidance.
